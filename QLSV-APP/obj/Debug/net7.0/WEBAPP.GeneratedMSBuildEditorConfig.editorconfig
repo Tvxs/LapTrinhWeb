@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = QLSV_APP
+build_property.RootNamespace = QLSV_APP
+build_property.ProjectDir = C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/sonma/Desktop/New folder/trinhvuxuanson/QLSV_APP/QLSV-APP/QLSV-APP/Areas/Admin/Views/Acount/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNvdW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sonma/Desktop/New folder/trinhvuxuanson/QLSV_APP/QLSV-APP/QLSV-APP/Areas/Admin/Views/Acount/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNvdW50XExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sonma/Desktop/New folder/trinhvuxuanson/QLSV_APP/QLSV-APP/QLSV-APP/Areas/Admin/Views/QLCV/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUUxDVlxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sonma/Desktop/New folder/trinhvuxuanson/QLSV_APP/QLSV-APP/QLSV-APP/Areas/Admin/Views/QLCV/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUUxDVlxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sonma/Desktop/New folder/trinhvuxuanson/QLSV_APP/QLSV-APP/QLSV-APP/Areas/Admin/Views/QLCV/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUUxDVlxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sonma/Desktop/New folder/trinhvuxuanson/QLSV_APP/QLSV-APP/QLSV-APP/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sonma/Desktop/New folder/trinhvuxuanson/QLSV_APP/QLSV-APP/QLSV-APP/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sonma/Desktop/New folder/trinhvuxuanson/QLSV_APP/QLSV-APP/QLSV-APP/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sonma/Desktop/New folder/trinhvuxuanson/QLSV_APP/QLSV-APP/QLSV-APP/Areas/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sonma/Desktop/New folder/trinhvuxuanson/QLSV_APP/QLSV-APP/QLSV-APP/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sonma/Desktop/New folder/trinhvuxuanson/QLSV_APP/QLSV-APP/QLSV-APP/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sonma/Desktop/New folder/trinhvuxuanson/QLSV_APP/QLSV-APP/QLSV-APP/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sonma/Desktop/New folder/trinhvuxuanson/QLSV_APP/QLSV-APP/QLSV-APP/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sonma/Desktop/New folder/trinhvuxuanson/QLSV_APP/QLSV-APP/QLSV-APP/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sonma/Desktop/New folder/trinhvuxuanson/QLSV_APP/QLSV-APP/QLSV-APP/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sonma/Desktop/New folder/trinhvuxuanson/QLSV_APP/QLSV-APP/QLSV-APP/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7brau4xywn

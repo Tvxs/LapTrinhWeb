@@ -1,0 +1,49 @@
+﻿@using WEBAPP.Models;
+<a asp-area="Admin" style="width:80px" asp-controller="QLCV" asp-action="Create" type="submit" class="btn btn-success"><i class="fa fa-check"></i> Tạo mới </a>
+<div class="card-body p-0">
+    <div class="table-responsive">
+        <table class="table table-striped">
+            <tbody>
+                <tr>
+                    <!-- <th scope="col">
+                        <div class="custom-checkbox custom-control">
+                            <input type="checkbox" class="custom-control-input" id="ckkAll">
+                            <label class="custom-control-label" for="ckkAll"></label>
+                        </div>
+                    </th> -->
+                    <th scope="col">Vị Trí</th>
+                    <th scope="col">Tên Công ty</th>
+                    <th scope="col">địa chỉ </th>
+                    <th scope="col">lương </th>
+                    <th scope="col">Loại công việc</th>
+                    <th scope="col">Shift </th>
+                    <th scope="col">Quali</th>
+                    <th scope="col">Chi tiết công việc</th>
+                    <th scope="col">rating</th>
+                    <th scope="col">hành động</th>
+                </tr>
+       
+                    @foreach(congviec item in ViewBag.Data)
+                    {
+                    <tr>
+                        <td>@item.Post</td>
+                        <td>@item.CompanyName</td>
+                        <td>@item.place</td>
+                        <td>@item.salaray</td>
+                        <td>@item.jobType</td>
+                        <td>@item.Shift</td>
+                        <td>@item.Quali </td>
+                        <td>@item.jobDetais</td>
+                        <td>@item.rating</td>
+                        <td>
+                            <a href="@Url.Action("Edit","QLCV", new { Area = "Admin" ,input = @item.Id })"style="margin-right: 5px ; color: white;" class="btn btn-primary">Sửa</a>
+                            <a href="@Url.Action("Delete","QLCV", new { Area = "Admin" ,input = @item.Id })" style="margin-right: 5px ; color: white;" class="btn btn-danger">Xóa</a>
+                        </td>
+                    </tr>
+                    }
+            
+            </tbody>
+        </table>
+        <pagination-controls [previousLabel]="'Last'" [nextLabel]="'Next'" (pageChange)="pageChangeEvent($event)"></pagination-controls>
+    </div>
+</div>

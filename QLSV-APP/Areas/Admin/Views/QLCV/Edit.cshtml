@@ -1,0 +1,86 @@
+﻿@model WEBAPP.Models.congviec;
+@*@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers;*@
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card shadow">
+            <div class="card-header">
+                <h4>Thêm mới hồ sơ</h4>
+            </div>
+            <div class="row">
+                <div class="col-md-2"></div>
+                <div class="col-md-8">
+
+                    <form asp-controller="QLCV" asp-action="EditData" method="post" enctype="multipart/form-data">
+                        <div class="card-body">
+                            <input asp-for="Id" name="Id" type="hidden">
+                            <div class="form-group">
+                                <label class="col-md-3 control-label">Vị Trí</label>
+                                <div class="col-md-12">
+                                    <input asp-for="Post" name="Post" type="text">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-md-3 control-label">Tên Công Ty</label>
+                                <div class="col-md-12">
+                                    <input asp-for="CompanyName" name="CompanyName" type="text">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-md-3 control-label">Địa Điểm</label>
+                                <div class="col-md-12">
+                                    <input asp-for="place" name="place" type="text">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-md-3 control-label">Lương</label>
+                                <div class="col-md-12">
+                                    <input asp-for="salaray" name="salaray" type="text">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-md-3 control-label">loại Công Việc</label>
+                                <div class="col-md-12">
+                                    <input asp-for="jobType" name="jobType" type="text">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-md-3 control-label">Shift</label>
+                                <div class="col-md-12">
+                                    <input asp-for="Shift" name="Shift" type="text">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-md-3 control-label">Quali</label>
+                                <div class="col-md-12">
+                                    <input asp-for="Quali" name="Quali" type="text">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-md-3 control-label">Chi Tiết Công Việc</label>
+                                <div class="col-md-12">
+                                    <textarea asp-for="jobDetais" name="jobDetais" type="text"></textarea>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-md-3 control-label">Rating</label>
+                                <div class="col-md-12">
+                                    <input asp-for="rating" name="rating" type="text">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-footer text-right">
+                            <div class="bu-group">
+                                <div class="form-group-center" id="text-center">
+                                    <button type="submit" class="btn btn-success"><i class="fa fa-check"></i> Cập Nhật</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+        </div>
+    </div>
+</div>

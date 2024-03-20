@@ -1,0 +1,150 @@
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\appsettings.json
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\WEBAPP.staticwebassets.runtime.json
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\WEBAPP.exe
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\WEBAPP.deps.json
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\WEBAPP.runtimeconfig.json
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\WEBAPP.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\WEBAPP.pdb
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Humanizer.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.csproj.AssemblyReference.cache
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.AssemblyInfoInputs.cache
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.AssemblyInfo.cs
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.csproj.CoreCompileInputs.cache
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.RazorAssemblyInfo.cache
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.RazorAssemblyInfo.cs
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\staticwebassets\msbuild.WEBAPP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\staticwebassets\msbuild.build.WEBAPP.props
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WEBAPP.props
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WEBAPP.props
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\scopedcss\bundle\WEBAPP.styles.css
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\scopedcss\projectbundle\WEBAPP.bundle.scp.css
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.csproj.CopyComplete
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\refint\WEBAPP.dll
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.pdb
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.genruntimeconfig.cache
+C:\Users\VNT\Desktop\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\ref\WEBAPP.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\appsettings.json
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\WEBAPP.staticwebassets.runtime.json
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\WEBAPP.exe
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\WEBAPP.deps.json
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\WEBAPP.runtimeconfig.json
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\WEBAPP.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\WEBAPP.pdb
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Humanizer.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.csproj.AssemblyReference.cache
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.AssemblyInfoInputs.cache
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.AssemblyInfo.cs
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.csproj.CoreCompileInputs.cache
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.RazorAssemblyInfo.cache
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.RazorAssemblyInfo.cs
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\staticwebassets\msbuild.WEBAPP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\staticwebassets\msbuild.build.WEBAPP.props
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WEBAPP.props
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WEBAPP.props
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\scopedcss\bundle\WEBAPP.styles.css
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\scopedcss\projectbundle\WEBAPP.bundle.scp.css
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.csproj.CopyComplete
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\refint\WEBAPP.dll
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.pdb
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\WEBAPP.genruntimeconfig.cache
+C:\Users\sonma\Desktop\New folder\trinhvuxuanson\QLSV_APP\QLSV-APP\QLSV-APP\obj\Debug\net7.0\ref\WEBAPP.dll
